@@ -1,6 +1,6 @@
 ## Observation
 
-This application was designed by this <a src="https://appdividend.com/2018/04/23/how-to-create-word-document-file-in-laravel/" target="_blank">article</a>.
+This application was designed by this [article](https://appdividend.com/2018/04/23/how-to-create-word-document-file-in-laravel/).
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
